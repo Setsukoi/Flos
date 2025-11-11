@@ -1,11 +1,11 @@
-# FLOS
+# FLOS 🌸
 > A rhythm game in harmony with blossoms.
 
 ---
 
 ### About
 
-"flos" is my first attempt of rhythm game, built with ***Godot Engine***.
+"flos" is my first attempt **at** a rhythm game, built with ***Godot Engine***.
 This project is currently in the ***early stages of development***.
 
 
@@ -20,26 +20,26 @@ See, there is no need to rush. Have some time to stay with yourself and enjoy th
 
 This is a living list of planned and completed features.
 
-*Planned*
+**Planned**
 * [ ] Basic music playback and beat synchronization
-* [ ] Judgment and score system 
+* [ ] Judgment and score system
 * [ ] Simple chart loading and parsing
 * [ ] User Interaction implementation
 * [ ] UI design
 
-*Implemented*
-      None
+**Implemented**
+None
 
 
 ### Built With
 
 * **Engine:** [Godot Engine](https://godotengine.org/) (v4.5.1)
 * **Language:** [GDScript](https://godotengine.org/features/#scripting)
-* **IDE:**  VS Code
+* **IDE:** VS Code
 
 ### Getting started
 
-      currently not runnable
+Currently not runnable.
 
 
 ### License
