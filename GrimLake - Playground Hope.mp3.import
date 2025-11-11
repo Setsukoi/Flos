@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://btqqpxwr7uiex"
+path="res://.godot/imported/GrimLake - Playground Hope.mp3-6aa04fe60b19f75ce583e90832025be1.mp3str"
+
+[deps]
+
+source_file="res://GrimLake - Playground Hope.mp3"
+dest_files=["res://.godot/imported/GrimLake - Playground Hope.mp3-6aa04fe60b19f75ce583e90832025be1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

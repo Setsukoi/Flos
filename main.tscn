@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dfdsac56ff4bb"]
+
+[ext_resource type="AudioStream" uid="uid://btqqpxwr7uiex" path="res://GrimLake - Playground Hope.mp3" id="1_ig7tw"]
+
+[node name="Main" type="Node2D"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("1_ig7tw")
+autoplay = true
