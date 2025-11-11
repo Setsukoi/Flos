@@ -1,4 +1,4 @@
-# FLOS 🌸
+# FLOS
 > A rhythm game in harmony with blossoms.
 
 ---
